@@ -92,7 +92,7 @@ ________________________________________________________________________________
 ## HOW TO PLAY
 
 1. No installation required. Simply download game folder from here
-https://github.com/SumeetSinghJi/BubbleUp/archive/refs/heads/main.zip
+https://github.com/SumeetChandJi/BubbleUp/archive/refs/heads/main.zip
 extract and run the relevant executable for your operating system (OS) below to play;
 * Windows: ./bin/windows/BubbleUp.exe
 * Linux: ./bin/linux/BubbleUp
